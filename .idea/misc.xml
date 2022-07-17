@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/drawable/btnselected.xml" value="0.1035" />
         <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/drawable/getstartedbtn.xml" value="0.1145" />
+        <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/drawable/selector.xml" value="0.188" />
+        <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/layout/activity_finish.xml" value="0.18" />
+        <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/layout/activity_league.xml" value="0.33" />
         <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/adigw/AndroidStudioProjects/Swooh/app/src/main/res/layout/activity_skill.xml" value="0.25" />
       </map>
     </option>
   </component>
